@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: La enseñanza de un pajaro carpintero
-date: 2019-10-20T23:32:06.711Z
+date: 2019-03-28T23:32:00.000Z
 description: La madre naturaleza dándo una gran lección de vida.
 featuredpost: false
 featuredimage: /img/images.jpeg
